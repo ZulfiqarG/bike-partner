@@ -18,7 +18,7 @@
     <a href="https://github.com/ZulfiqarG/bike-partner"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://norrinradd8.github.io/bike_buddy/">View Live Website</a>
+    <a href="https://bike-partner.vercel.app/">View Live Website</a>
     ·
     <a href="https://github.com/ZulfiqarG/bike-partner/issues">Report Bug</a>
     ·
